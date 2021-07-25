@@ -8,5 +8,5 @@
 
 N=int(input()) # 사용자로부터 정수 입력받기
 
-for i in range(N):
+for i in range(N): # i에 0부터 N-1까지 순서대로 대입하며 반복
     print(i+1)
